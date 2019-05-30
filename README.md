@@ -2,7 +2,7 @@
 
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/UI.png)
 
-EasyCharts is an Excel plug-in written by the EasyCharts team using C# language. It is mainly used for data visualization and data analysis. It can be used well with this book, as shown in Figure 8-2-1. The main functions of the EasyCharts plugin are as follows. 
+EasyCharts is an Excel plug-in written by the EasyCharts team using C# language. It is mainly used for data visualization and data analysis.The main functions of the EasyCharts plugin are as follows. 
 
 1. Automatic conversion of chart style: After drawing the chart with Excel, select the items "R ggplot2", "Python Seaborn", "Matlab 2013", "Matlab 2014" in "Background Style" , "Excel Simple" and other chart styles, automatically realize the setting and conversion of the chart background style; 
 2. Automatic conversion of color theme: After drawing the chart with Excel, select the item "R ggplot2 Set1", "R" in "Color Theme" Color themes such as ggplot2 Set2", "R ggplot2 Set3", "Tableau 10 Medium", "Tableau 10", "Python seaborn hsul", "Python seaborn default", etc., can automatically convert color themes; 

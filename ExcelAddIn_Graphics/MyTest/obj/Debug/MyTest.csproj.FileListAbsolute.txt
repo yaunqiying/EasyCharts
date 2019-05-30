@@ -1,0 +1,10 @@
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\bin\Debug\MyTest.exe
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\bin\Debug\MyTest.pdb
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\bin\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\bin\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\obj\Debug\MyTest.Form1.resources
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\obj\Debug\MyTest.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\obj\Debug\MyTest.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\obj\Debug\MyTest.exe
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\MyTest\obj\Debug\MyTest.pdb

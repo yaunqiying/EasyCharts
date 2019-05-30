@@ -1,0 +1,5 @@
+c:\nQuant\nQuant\nQuant\obj\Debug\ResolveAssemblyReference.cache
+c:\nQuant\nQuant\nQuant\bin\Debug\nQuant.dll
+c:\nQuant\nQuant\nQuant\bin\Debug\nQuant.pdb
+c:\nQuant\nQuant\nQuant\obj\Debug\nQuant.dll
+c:\nQuant\nQuant\nQuant\obj\Debug\nQuant.pdb

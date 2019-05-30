@@ -1,0 +1,15 @@
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Release\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Release\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Release\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Release\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Release\nQuant.Core.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Release\nQuant.Core.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Release\nQuant.Core.pdb

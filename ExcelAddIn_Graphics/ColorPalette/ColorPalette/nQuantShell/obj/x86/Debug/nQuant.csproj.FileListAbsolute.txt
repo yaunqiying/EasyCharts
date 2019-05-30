@@ -1,0 +1,23 @@
+c:\nQuant\nQuantShell\nQuant\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\nQuant\nQuantShell\nQuant\bin\Debug\nQuant.exe
+c:\nQuant\nQuantShell\nQuant\bin\Debug\nQuant.pdb
+c:\nQuant\nQuantShell\nQuant\obj\x86\Debug\nQuant.exe
+c:\nQuant\nQuantShell\nQuant\obj\x86\Debug\nQuant.pdb
+c:\nQuant\nQuantShell\nQuant\bin\Debug\nQuant.Core.dll
+c:\nQuant\nQuantShell\nQuant\bin\Debug\nQuant.Core.pdb
+C:\nQuant\nQuantShell\bin\Debug\nQuant.exe
+C:\nQuant\nQuantShell\bin\Debug\nQuant.pdb
+C:\nQuant\nQuantShell\bin\Debug\nQuant.Core.dll
+C:\nQuant\nQuantShell\bin\Debug\nQuant.Core.pdb
+C:\nQuant\nQuantShell\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\nQuant\nQuantShell\obj\x86\Debug\nQuant.exe
+C:\nQuant\nQuantShell\obj\x86\Debug\nQuant.pdb
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\obj\x86\Debug\nQuant.exe
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\obj\x86\Debug\nQuant.pdb
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\bin\Debug\nQuant.exe
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\bin\Debug\nQuant.pdb
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\obj\x86\Debug\nQuant.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\obj\x86\Debug\nQuant.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuantShell\obj\x86\Debug\nQuant.csproj.GenerateResource.Cache

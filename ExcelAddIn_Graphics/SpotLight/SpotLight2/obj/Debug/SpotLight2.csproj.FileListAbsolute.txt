@@ -1,0 +1,101 @@
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\bin\Debug\SpotLight2.dll
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\bin\Debug\SpotLight2.pdb
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\bin\Debug\SpotLight2.vsto
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\obj\Debug\SpotLight2.dll
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\obj\Debug\SpotLight2.pdb
+E:\GeekNow\99-当前项目\ExcelSharp1009\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+E:\new-project\ExcelSharp1009A\SpotLight2\bin\Debug\SpotLight2.dll
+E:\new-project\ExcelSharp1009A\SpotLight2\bin\Debug\SpotLight2.pdb
+E:\new-project\ExcelSharp1009A\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+E:\new-project\ExcelSharp1009A\SpotLight2\bin\Debug\SpotLight2.vsto
+E:\new-project\ExcelSharp1009A\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\new-project\ExcelSharp1009A\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\new-project\ExcelSharp1009A\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+E:\new-project\ExcelSharp1009A\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+E:\new-project\ExcelSharp1009A\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+E:\new-project\ExcelSharp1009A\SpotLight2\obj\Debug\SpotLight2.dll
+E:\new-project\ExcelSharp1009A\SpotLight2\obj\Debug\SpotLight2.pdb
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.dll
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.pdb
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.vsto
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.dll
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.pdb
+E:\GeekNow\99-当前项目\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+E:\new-project\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.dll
+E:\new-project\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.pdb
+E:\new-project\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+E:\new-project\ExcelSharp1010\SpotLight2\bin\Debug\SpotLight2.vsto
+E:\new-project\ExcelSharp1010\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\new-project\ExcelSharp1010\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\new-project\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+E:\new-project\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+E:\new-project\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+E:\new-project\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+E:\new-project\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.dll
+E:\new-project\ExcelSharp1010\SpotLight2\obj\Debug\SpotLight2.pdb
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.dll
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.pdb
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.vsto
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.dll
+E:\9999-整理项目\BB-教学项目\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.pdb
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.dll
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.pdb
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\bin\Debug\SpotLight2.vsto
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.dll
+C:\Users\Administrator\Desktop\当前开发\ExcelSharp1011\SpotLight2\obj\Debug\SpotLight2.pdb
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\bin\Debug\SpotLight2.dll
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\bin\Debug\SpotLight2.pdb
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\bin\Debug\SpotLight2.vsto
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\obj\Debug\SpotLight2.dll
+C:\Users\Administrator\Desktop\当前开发\SpotLight\SpotLight2\obj\Debug\SpotLight2.pdb
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\SpotLight2.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\SpotLight2.pdb
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\SpotLight2.dll.manifest
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\SpotLight2.vsto
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\Debug\SpotLight2.Ribbon1.resources
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\Debug\SpotLight2.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\Debug\SpotLight2.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-08\ExcelAddIn_Graphics\SpotLight\SpotLight2\obj\Debug\SpotLight2.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-08\ExcelAddIn_Graphics\SpotLight\SpotLight2\obj\Debug\SpotLight2.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-08\ExcelAddIn_Graphics\SpotLight\SpotLight2\obj\Debug\SpotLight2.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-08\ExcelAddIn_Graphics\SpotLight\SpotLight2\obj\Debug\SpotLight2.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-08\ExcelAddIn_Graphics\SpotLight\SpotLight2\obj\Debug\SpotLight2.pdb

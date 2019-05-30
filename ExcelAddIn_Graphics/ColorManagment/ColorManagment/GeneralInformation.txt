@@ -1,0 +1,98 @@
+﻿General rules when adding new things:
+	#if a new file is added, also add the proper licence (copy it from previous files)
+	#new enumerators are added to the file "Enums.cs"
+	#new GUIs or libraries should have the file "Logo.ico" as icon if appropriate
+	#if some new code requires change when a new color is added, list it here and the exact position in the file itself
+
+When adding a new colormodel, this is necessary:
+	#derive the new color from the abstract class "Color"
+	#add components with getter and setter (set range if possible) with "ColorValues" from the baseclass "Color"
+	#add proper documentation to variables and methods
+	#add information to this file
+	#make the colormodel class sealed
+
+When adding a new colormodel, you have to make changes to this files:	(closer description in files itself)
+	#ColorManagment->Color_Conversion.cs
+	#ColorManagment->Fast_Conversion.cs
+	#ColorManagment->ICC_Conversion.cs	(if ICC compatible color)
+	#ColorManagment->BaseColor.cs
+	#ConversionGUI->MainForm.cs			(Not mandatory, but recommended)
+	#PrecisionCompareGUI->MainForm.cs	(Not mandatory, but recommended)
+	#SpeedGUI->MainForm.cs				(Not mandatory, but recommended)
+	#ColorDifferenceGUI->MainForm.cs	(Not mandatory, but recommended)
+
+Range of all colors:
+	CIE XYZ:		All:	0-1
+	CIE Lab:		L:		0-100		a/b:	n.def.
+	CIE Luv:		L:		0-100		a/b:	n.def.
+	CIE Yxy:		All:	0-1
+	CIE LCHab:		L:		0-100		C:		n.def.		H:		0-360
+	CIE LCHuv:		L:		0-100		C:		n.def.		H:		0-360
+	LCH99:			L:		0-100		C:		n.def.		H:		0-360
+	LCH99b:			L:		0-100		C:		n.def.		H:		0-360
+	LCH99c:			L:		0-100		C:		n.def.		H:		0-360
+	LCH99d:			L:		0-100		C:		n.def.		H:		0-360
+	RGB:			All:	0-1
+	HSV:			H:		0-360		S/V:	0-1
+	HSL:			H:		0-360		S/L:	0-1
+	CMYK:			All:	0-100
+	CMY				All:	0-100
+	YCbCr			All:	0-1
+	Gray			All:	0-1
+	ColorX			All:	n.def.
+	DEF:			All:	n.def.
+	Bef:			All:	n.def.
+	BCH:			B/C:	n.def.		H:		0-360
+	
+Number of channels:			Dependencies:									possible conversions:
+	CIE XYZ:		3			Reference White									RGB, Lab, Luv, Yxy, Gray, DEF, ICC
+	CIE Lab:		3			Reference White									XYZ, LCHab, ICC
+	CIE Luv:		3			Reference White									XZY, LCHuv, ICC
+	CIE Yxy:		3			Reference White									XYZ, ICC
+	CIE LCHab:		3			Reference White									Lab
+	CIE LCHuv:		3			Reference White									Luv
+	LCH99:			3			Reference White									Lab
+	LCH99b:			3			Reference White									Lab
+	LCH99c:			3			Reference White									Lab
+	LCH99d:			3			Reference White									Lab
+	RGB:			3			RGB Colorspace									XYZ, HSV, HSL, YCbCr, ICC
+	HSV:			3			RGB Colorspace									RGB, ICC
+	HSL:			3			RGB Colorspace									RGB, ICC
+	CMYK:			4			ICC												ICC
+	CMY				3			ICC												ICC
+	YCbCr			3			RGB Colorspace & YCbCr Colorspace or ICC		RGB, ICC
+	Gray			1			Reference White or ICC							XYZ, Lab, ICC
+	ColorX			2-15		ICC												ICC
+	DEF				3			Reference White									XYZ, Bef, BCH
+	Bef				3			Reference White									DEF
+	BCH				3			Reference White									DEF
+
+
+Version Information:
+
+Version 1.0:
+-several colormodels supported (XYZ, Lab, Luv, Yxy, LCHab, LCHuv, RGB, HSV, HSL)
+-most important colorspaces
+-most important whitepoints
+-conversion between all models
+
+Version 2.0:
+-restructured the whole library
+-added several new colormodels (LCH99, LCH99b, LCH99c, LCH99d, CMYK, CMY, YCbCr, Gray, ColorX)
+-added several new colorspaces
+-added ICC support
+-added custom reference white
+-added chromatic adaption
+-improved performance
+-multithreading support for conversions
+
+Version 3.0:
+-fixed a bug in LCHuv calculation
+-fixed a bug in Delta E CMC calculation
+-fixed other minor bugs
+-fixed a mistake and added DIN99 colors in Color.Copy()
+-fixed ColorDifference CMC methods: Lab has to have D65 reference white
+-added Delta E CMC calculation with custom l:c values
+-added conversion from DIN99c and DIN99d to all other colormodels
+-added Light version for colors: store values in bytes or ushorts for smaller memory print
+-added DEF, Bef and BCH colormodels with all conversions

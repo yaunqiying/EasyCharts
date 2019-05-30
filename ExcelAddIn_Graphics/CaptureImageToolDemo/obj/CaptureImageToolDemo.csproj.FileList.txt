@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+obj\Debug\CaptureImageToolDemo.csproj.GenerateResource.Cache
+bin\Debug\CaptureImageToolDemo.exe
+bin\Debug\CaptureImageToolDemo.pdb
+bin\Debug\SystemMenu.dll
+bin\Debug\CaptureImageTool.pdb
+obj\Debug\CaptureImageToolDemo.exe
+obj\Debug\CaptureImageToolDemo.pdb
+bin\Debug\CaptureImageTool.dll
+obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources

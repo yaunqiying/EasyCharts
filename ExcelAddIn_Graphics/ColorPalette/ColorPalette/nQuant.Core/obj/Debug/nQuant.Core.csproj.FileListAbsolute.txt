@@ -1,0 +1,30 @@
+c:\nQuant\nQuant\nQuant\obj\Debug\ResolveAssemblyReference.cache
+c:\nQuant\nQuant\nQuant\bin\Debug\nQuant.Core.dll
+c:\nQuant\nQuant\nQuant\bin\Debug\nQuant.Core.pdb
+c:\nQuant\nQuant\nQuant\obj\Debug\nQuant.Core.dll
+c:\nQuant\nQuant\nQuant\obj\Debug\nQuant.Core.pdb
+C:\nQuant\nQuant.Core\bin\Debug\nQuant.Core.dll
+C:\nQuant\nQuant.Core\bin\Debug\nQuant.Core.pdb
+C:\nQuant\nQuant.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\nQuant\nQuant.Core\obj\Debug\nQuant.Core.dll
+C:\nQuant\nQuant.Core\obj\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuant.Core\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuant.Core\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuant.Core\obj\Debug\nQuant.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuant.Core\obj\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\Convert 32 bit PNGs to high quality 8 bit PNGs\C#\nQuant.Core\obj\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.pdb
+J:\数据演示-Data Visualization\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Debug\nQuant.Core.dll
+J:\数据演示-Data Visualization\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Debug\nQuant.Core.pdb
+J:\数据演示-Data Visualization\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.csprojResolveAssemblyReference.cache
+J:\数据演示-Data Visualization\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.dll
+J:\数据演示-Data Visualization\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Debug\nQuant.Core.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\bin\Debug\nQuant.Core.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\nQuant.Core\obj\Debug\nQuant.Core.pdb

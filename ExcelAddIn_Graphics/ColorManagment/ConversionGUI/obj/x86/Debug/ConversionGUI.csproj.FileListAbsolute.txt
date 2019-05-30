@@ -1,0 +1,13 @@
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\ColorConverter.exe
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\ColorConverter.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\obj\x86\Debug\ConversionGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\obj\x86\Debug\ConversionGUI.MainForm.resources
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\obj\x86\Debug\ConversionGUI.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\obj\x86\Debug\ConversionGUI.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\obj\x86\Debug\ColorConverter.exe
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ConversionGUI\obj\x86\Debug\ColorConverter.pdb

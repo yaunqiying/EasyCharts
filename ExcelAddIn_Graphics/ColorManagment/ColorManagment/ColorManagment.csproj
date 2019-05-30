@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{732EBACF-9743-4C22-85F7-3284BA046C0C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ColorManagment</RootNamespace>
+    <AssemblyName>ColorManagment</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\ColorManagment.XML</DocumentationFile>
+    <NoWarn>1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Colors\BaseColor.cs" />
+    <Compile Include="Colors\CMY_Based.cs" />
+    <Compile Include="Colors\DEF_Based.cs" />
+    <Compile Include="Colors\LCH_Based.cs" />
+    <Compile Include="Conversion\ICC_Conversion.cs" />
+    <Compile Include="Light\Byte\BaseColor.cs" />
+    <Compile Include="Light\Byte\CIE_Based.cs" />
+    <Compile Include="Light\Byte\LCH_Based.cs" />
+    <Compile Include="Light\Byte\Other_Based.cs" />
+    <Compile Include="Light\Byte\RGB_Based.cs" />
+    <Compile Include="Light\Ushort\BaseColor.cs" />
+    <Compile Include="Light\Ushort\CIE_Based.cs" />
+    <Compile Include="Light\Ushort\LCH_Based.cs" />
+    <Compile Include="Light\Ushort\Other_Based.cs" />
+    <Compile Include="Light\Ushort\RGB_Based.cs" />
+    <Compile Include="Subclasses\ColorDifference.cs" />
+    <Compile Include="Subclasses\MMath.cs" />
+    <Compile Include="Subclasses\RGBColorspace.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Colors\Other_Based.cs" />
+    <Compile Include="Colors\RGB_Based.cs" />
+    <Compile Include="Colors\CIE_Based.cs" />
+    <Compile Include="Conversion\Color_Conversion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Subclasses\Whitepoint.cs" />
+    <Compile Include="Subclasses\YCbCrColorspace.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Subclasses\ICC.cs" />
+    <Content Include="GeneralInformation.txt" />
+    <Content Include="License.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ICCReader\ICCReader.csproj">
+      <Project>{509FD9FF-7AF6-4554-8442-FE802A3B03CA}</Project>
+      <Name>ICCReader</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

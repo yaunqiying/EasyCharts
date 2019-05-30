@@ -1,0 +1,15 @@
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\SpotLight2.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\SpotLight2.pdb
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\SpotLight2.dll.manifest
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\SpotLight2.vsto
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\Microsoft.Office.Tools.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\bin\x86\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\x86\Debug\SpotLight2.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\x86\Debug\SpotLight2.Ribbon1.resources
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\x86\Debug\SpotLight2.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\x86\Debug\SpotLight2.dll
+C:\Users\Jie Zhang\Desktop\SpotLight-Faunus\SpotLight-Faunus\SpotLight2\obj\x86\Debug\SpotLight2.pdb

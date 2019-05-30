@@ -1,0 +1,50 @@
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\CaptureImageToolDemo\CaptureImageTool\obj\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.CaptureImageTool.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.ColorSelector.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.DrawToolsControl.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CSharpWin_JD.CaptureImage.Properties.Resources.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\CaptureImageTool\obj\Debug\CaptureImageTool.pdb

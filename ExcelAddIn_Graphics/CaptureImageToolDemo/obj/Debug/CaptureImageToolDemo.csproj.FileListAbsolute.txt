@@ -1,0 +1,37 @@
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.exe
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.pdb
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageTool.dll
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\SystemMenu.dll
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\bin\Debug\CaptureImageTool.pdb
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.exe
+C:\Users\TuJianKai\Desktop\CaptureImageToolDemo\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.exe
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\SystemMenu.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.exe
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_Graphics\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.exe
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageToolDemo.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\SystemMenu.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.AboutBoxCSharpWinDemo.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.FormCSharpWinDemo.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.exe
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-05-22\ExcelAddIn_Graphics\CaptureImageToolDemo\obj\Debug\CaptureImageToolDemo.pdb

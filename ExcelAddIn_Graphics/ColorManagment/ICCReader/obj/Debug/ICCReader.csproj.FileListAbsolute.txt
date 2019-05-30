@@ -1,0 +1,18 @@
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ICCReader\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ICCReader\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ICCReader\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ICCReader\obj\Debug\ICCReader.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ICCReader\obj\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ICCReader\obj\Debug\ICCReader.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ICCReader\bin\Debug\License.txt
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ICCReader\bin\Debug\ICCReader.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ICCReader\bin\Debug\ICCReader.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ICCReader\obj\Debug\ICCReader.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ICCReader\obj\Debug\ICCReader.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ICCReader\obj\Debug\ICCReader.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\ColorManagment\ICCReader\bin\Debug\License.txt
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\ColorManagment\ICCReader\bin\Debug\ICCReader.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\ColorManagment\ICCReader\bin\Debug\ICCReader.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\ColorManagment\ICCReader\obj\Debug\ICCReader.csprojResolveAssemblyReference.cache
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\ColorManagment\ICCReader\obj\Debug\ICCReader.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\ColorManagment\ICCReader\obj\Debug\ICCReader.pdb

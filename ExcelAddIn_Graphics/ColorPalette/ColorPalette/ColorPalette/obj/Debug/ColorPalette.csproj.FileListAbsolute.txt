@@ -1,0 +1,45 @@
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.exe.config
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.exe
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.pdb
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.exe
+C:\Users\Jie Zhang\Desktop\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.exe.config
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.exe
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.exe
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\System.Net.Http.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\System.Net.Http.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.WordClientPkgLib.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csproj.ResolveComReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-06\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.exe.config
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.exe
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\ColorPalette.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.VSTProjectLib.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\Interop.WordClientPkgLib.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csproj.ResolveComReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.Form_ColorPalette.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.exe
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorPalette\ColorPalette\ColorPalette\obj\Debug\ColorPalette.pdb

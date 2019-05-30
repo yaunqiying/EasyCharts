@@ -1,0 +1,354 @@
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-09\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_Graphics-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyChart-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-13\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Jie Zhang\Desktop\ExcelAddIn_EasyCharts-2016-09-23\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\License.txt
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_PictureExport.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Color_Matrix.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\License.txt
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.config
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.dll.manifest
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ExcelAddIn_Graphics.vsto
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ColorManagment.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.Excel.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ICCReader.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\CaptureImageTool.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ColorManagment.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\nQuant.Core.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\EPPlus.xml
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\bin\Debug\ICCReader.pdb
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csprojResolveAssemblyReference.cache
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.AreaThreshold.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Color_Matrix.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnColor.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnThreshold.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.CurveLOESS.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityCurve.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ColumnFrequency.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.DensityScatter.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Camera.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ChartSize.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Cofficient.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPalette.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorPixel.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_ColorWheel_GetColor.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Fourier.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetColors.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_GetData.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_Money.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_PictureExport.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_QQGroup.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Form_WeChart.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.EasyCharts.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.Properties.Resources.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleRelationShip.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.BubbleSquare.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.ScatterColor.resources
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\EasyCharts.csproj.GenerateResource.Cache
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.dll
+D:\Data_visualization\ExcelAddIn_EasyCharts-2017-05-21\ExcelAddIn_Graphics\obj\Debug\ExcelAddIn_Graphics.pdb

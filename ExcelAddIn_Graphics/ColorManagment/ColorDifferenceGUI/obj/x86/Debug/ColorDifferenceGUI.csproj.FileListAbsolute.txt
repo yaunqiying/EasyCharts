@@ -1,0 +1,19 @@
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\License.txt
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\ColorDifferenceGUI.exe
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\ColorDifferenceGUI.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\ColorManagment.dll
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\ICCReader.dll
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\ColorManagment.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\bin\Debug\ICCReader.pdb
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.MainForm.resources
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.Properties.Resources.resources
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.csproj.GenerateResource.Cache
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.exe
+C:\Users\Jie Zhang\Desktop\ReleaseV3\ReleaseV3\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.exe
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.pdb
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.csprojResolveAssemblyReference.cache
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.MainForm.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.Properties.Resources.resources
+C:\Users\Peter_Zhang\Desktop\ExcelAddIn_EasyCharts-2017-01-24\ExcelAddIn_Graphics\ColorManagment\ColorDifferenceGUI\obj\x86\Debug\ColorDifferenceGUI.csproj.GenerateResource.Cache

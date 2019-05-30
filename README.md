@@ -1,17 +1,17 @@
-# EasyCharts
+# EasyCharts插件开源须知
 
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/UI.png)
 
-EasyCharts is an Excel plug-in written by the EasyCharts team using C# language. It is mainly used for data visualization and data analysis.The main functions of the EasyCharts plugin are as follows. 
+    EasyCharts是使用C#语言编写的一款Excel插件，主要用于数据可视化与数据分析，可以跟Excel教程《Excel数据之美》很好地配套使用。由于研究精力有限，本来想开发的众多功能也迟迟没有实现，所以现开源给大家进一步开发与使用，以造福更多Excel用户。如有问题，可以联系EasyCharts开发者微信：EasyCharts。EasyCharts插件主要实现的功能如下：
 
-1. Automatic conversion of chart style: After drawing the chart with Excel, select the items "R ggplot2", "Python Seaborn", "Matlab 2013", "Matlab 2014" in "Background Style" , "Excel Simple" and other chart styles, automatically realize the setting and conversion of the chart background style; 
-2. Automatic conversion of color theme: After drawing the chart with Excel, select the item "R ggplot2 Set1", "R" in "Color Theme" Color themes such as ggplot2 Set2", "R ggplot2 Set3", "Tableau 10 Medium", "Tableau 10", "Python seaborn hsul", "Python seaborn default", etc., can automatically convert color themes; 
-3. Automatic of new charts Draw: A chart that previously needed to add auxiliary data to draw. Now that the raw data is selected with the plug-in, the chart can be automatically drawn. The new chart includes a smooth area chart, Nightingale rose, mosaic, bullet, and bullet. other charts, part of the diagram shown in FIG 8-2-2; 
-4. automate data analysis: using the "data analysis" command Analysis and automatic drawing current frequency histogram chart, FIG kernel density estimation, FIG correlation coefficient matrix, and data smoothing Loess Fourier data smoothing data; 
-5. using Excel aids: "aids" include color pickup, data thief , color wheel reference, chart save, screenshots and other functions, especially the "data thief" can read and obtain the original data of the chart by reading the existing column chart or graph, automatic or manual method. 
+- 图表风格的自动转换：使用Excel绘制图图表后，选择“背景风格”中的项目“R ggplot2”、“Python Seaborn”、“Matlab 2013” 、“Matlab 2014”、“Excel Simple”等图表风格，自动实现图表背景风格的设定与转换；
+- 颜色主题的自动转换：使用Excel绘制图图表后，选择“颜色主题”中的项目“R ggplot2 Set1”、“R ggplot2 Set2”、“R ggplot2 Set3”、“Tableau 10 Medium”、“Tableau 10”、“Python seaborn hsul”、“Python seaborn default”等颜色主题，可以实现颜色主题的自动转换；
+- 新型图表的自动绘制：以前需要添加辅助数据才能绘制的图表，现在借助插件选定原始数据后，可以实现图表的自动绘制，新型图表包括平滑面积图、南丁格尔玫瑰图、马赛克图、子弹图等图表，部分图表如图2所示；
+- 数据分析的自动实现：使用“数据分析”可以实现频率直方图、核密度估计图、相关系数矩阵图、Loess数据平滑和Fourier数据平滑等数据的分析与图表的自动绘制；
+- Excel辅助工具的使用：“辅助工具”包括颜色拾取、数据小偷、色轮参考、图表保存、截图等功能，尤其是“数据小偷”可以通过读入现有的柱形图或曲线图，自动或手动的方法，读取并获得图表的原始数据。
 
-## Examples
-There are some examples.
+## 案例
+以下是插件能实现的部分案例图表。
 
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e1.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e2.png)
@@ -20,5 +20,4 @@ There are some examples.
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)
 
 
-
-### If you have any questions, please contact my personal WeChat：EasyCharts.
+### 如有问题，可以联系EasyCharts开发者微信：EasyCharts

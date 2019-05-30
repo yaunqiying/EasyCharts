@@ -1,6 +1,6 @@
 # EasyCharts
 
-![image](https://bzdww.com/cms_static/d3817a5b24e078920eb59833aad96dee_b.png)
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/UI.png)
 
 EasyCharts is an Excel plug-in written by the EasyCharts team using C# language. It is mainly used for data visualization and data analysis. It can be used well with this book, as shown in Figure 8-2-1. The main functions of the EasyCharts plugin are as follows. 
 
@@ -9,3 +9,11 @@ EasyCharts is an Excel plug-in written by the EasyCharts team using C# language.
 3. Automatic of new charts Draw: A chart that previously needed to add auxiliary data to draw. Now that the raw data is selected with the plug-in, the chart can be automatically drawn. The new chart includes a smooth area chart, Nightingale rose, mosaic, bullet, and bullet. other charts, part of the diagram shown in FIG 8-2-2; 
 4. automate data analysis: using the "data analysis" command Analysis and automatic drawing current frequency histogram chart, FIG kernel density estimation, FIG correlation coefficient matrix, and data smoothing Loess Fourier data smoothing data; 
 5. using Excel aids: "aids" include color pickup, data thief , color wheel reference, chart save, screenshots and other functions, especially the "data thief" can read and obtain the original data of the chart by reading the existing column chart or graph, automatic or manual method. 
+
+## Examples
+There are some examples.
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e1.png)
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e2.png)
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e3.png)
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e4.png)
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)

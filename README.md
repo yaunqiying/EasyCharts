@@ -19,6 +19,6 @@ There are some examples.
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e4.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)
 
-Handsome people are paying attention to the EasyCharts team :D  *WeChat public number*: **EasyCharts**
 
-If you have any questions, please contact my personal WeChat：**EasyCharts**
+
+### If you have any questions, please contact my personal WeChat：EasyCharts.

@@ -10,7 +10,7 @@ EasyCharts is an Excel plug-in written by the EasyCharts team using C# language.
 4. automate data analysis: using the "data analysis" command Analysis and automatic drawing current frequency histogram chart, FIG kernel density estimation, FIG correlation coefficient matrix, and data smoothing Loess Fourier data smoothing data; 
 5. using Excel aids: "aids" include color pickup, data thief , color wheel reference, chart save, screenshots and other functions, especially the "data thief" can read and obtain the original data of the chart by reading the existing column chart or graph, automatic or manual method. 
 
-## Examples
+## [Examples](https://github.com/EasyChart/EasyCharts/blob/master/Examples)  
 There are some examples.
 
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e1.png)

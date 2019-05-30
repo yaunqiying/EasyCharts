@@ -1,8 +1,9 @@
+[English README](https://github.com/EasyChart/EasyCharts/blob/master/README.en.md)  
 # EasyCharts插件开源须知
 
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/UI.png)
 
-    EasyCharts是使用C#语言编写的一款Excel插件，主要用于数据可视化与数据分析，可以跟Excel教程《Excel数据之美》很好地配套使用。由于研究精力有限，本来想开发的众多功能也迟迟没有实现，所以现开源给大家进一步开发与使用，以造福更多Excel用户。如有问题，可以联系EasyCharts开发者微信：EasyCharts。EasyCharts插件主要实现的功能如下：
+***EasyCharts*** 是使用C#语言编写的一款Excel插件，主要用于数据可视化与数据分析，可以跟Excel教程《Excel数据之美》很好地配套使用。由于研究精力有限，本来想开发的众多功能也迟迟没有实现，所以现开源给大家进一步开发与使用，以造福更多Excel用户。如有问题，可以联系EasyCharts开发者微信：EasyCharts。EasyCharts插件主要实现的功能如下：
 
 - 图表风格的自动转换：使用Excel绘制图图表后，选择“背景风格”中的项目“R ggplot2”、“Python Seaborn”、“Matlab 2013” 、“Matlab 2014”、“Excel Simple”等图表风格，自动实现图表背景风格的设定与转换；
 - 颜色主题的自动转换：使用Excel绘制图图表后，选择“颜色主题”中的项目“R ggplot2 Set1”、“R ggplot2 Set2”、“R ggplot2 Set3”、“Tableau 10 Medium”、“Tableau 10”、“Python seaborn hsul”、“Python seaborn default”等颜色主题，可以实现颜色主题的自动转换；

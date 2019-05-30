@@ -22,12 +22,13 @@
 
 
 ### 如有问题，可以联系EasyCharts开发者微信：EasyCharts
-
-	<img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/PW.png" alt="开发者微信号"  width="250" height="250">
+<p>
+    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/PW.png" alt="开发者微信号"  width="250" height="250">
+</p>
 
 
 ### 欢迎关注我们的微信公众号：EasyCharts
 <p>
-	<img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/WPN.jpg" alt="微信公众号"  width="250" height="250">
+    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/WPN.jpg" alt="微信公众号"  width="250" height="250">
 </p>
 

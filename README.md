@@ -20,7 +20,7 @@
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e4.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)
 
-
+---
 ### 如有问题，可以联系EasyCharts开发者微信：EasyCharts
 <p>
     <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/PW.png" alt="开发者微信号"  width="250" height="250">

@@ -22,3 +22,7 @@
 
 
 ### 如有问题，可以联系EasyCharts开发者微信：EasyCharts
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/PW.png)
+
+### 欢迎关注我们的微信公众号：EasyCharts
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/WPN.png)

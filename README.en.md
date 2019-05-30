@@ -21,4 +21,14 @@ There are some examples.
 
 
 
+---
 ### If you have any questions, please contact my personal WeChat：EasyCharts.
+<p>
+    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/PW.png" alt="开发者微信号"  width="250" height="250">
+</p>
+
+
+### Please follow our Wechat official account：EasyCharts
+<p>
+    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/WPN.jpg" alt="微信公众号"  width="250" height="250">
+</p>

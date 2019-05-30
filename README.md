@@ -18,3 +18,7 @@ There are some examples.
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e3.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e4.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)
+
+Handsome people are paying attention to the EasyCharts team ^..^~ WeChat public number: EasyCharts
+
+If you have any questions, please contact my Wechat：**EasyCharts**

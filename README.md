@@ -11,7 +11,7 @@
 - 数据分析的自动实现：使用“数据分析”可以实现频率直方图、核密度估计图、相关系数矩阵图、Loess数据平滑和Fourier数据平滑等数据的分析与图表的自动绘制；
 - Excel辅助工具的使用：“辅助工具”包括颜色拾取、数据小偷、色轮参考、图表保存、截图等功能，尤其是“数据小偷”可以通过读入现有的柱形图或曲线图，自动或手动的方法，读取并获得图表的原始数据。
 
-## 案例
+## [案例](https://github.com/EasyChart/EasyCharts/blob/master/Examples)  
 以下是插件能实现的部分案例图表。
 
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e1.png)

@@ -12,6 +12,7 @@ EasyCharts is an Excel plug-in written by the EasyCharts team using C# language.
 
 ## Examples
 There are some examples.
+
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e1.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e2.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e3.png)

@@ -1,0 +1,465 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ICCReader</name>
+    </assembly>
+    <members>
+        <member name="T:ICCReader.ICCHeader">
+            <summary>
+            The header of an ICC profile
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileSize">
+            <summary>
+            Size of profile in bytes
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.CMMType">
+            <summary>
+            Preferred CMM (Color Management Module) type
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileVersionNumber">
+            <summary>
+            Version number of profile
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileClass">
+            <summary>
+            Type of profile
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.DataColorspace">
+            <summary>
+            Colorspace of data
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.PCS">
+            <summary>
+            Profile Connection Space
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.CreationDate">
+            <summary>
+            Date and time this profile was first created
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileFileSignature">
+            <summary>
+            Has to be "acsp"
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.PrimaryPlatformSignature">
+            <summary>
+            Primary platform this profile was created for
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileFlags">
+            <summary>
+            Profile flags to indicate various options for the CMM such as distributed processing and caching options
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.DeviceManufacturer">
+            <summary>
+            Device manufacturer of the device for which this profile is created
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.DeviceModel">
+            <summary>
+            Device model of the device for which this profile is created
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.DeviceAttributes">
+            <summary>
+            Device attributes unique to the particular device setup such as media type
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.RenderingIntent">
+            <summary>
+            Rendering Intent
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.PCSIlluminant">
+            <summary>
+            The normalized XYZ values of the illuminant of the PCS
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileCreatorSignature">
+            <summary>
+            Profile creator signature
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCHeader.ProfileID">
+            <summary>
+            Profile ID
+            </summary>
+        </member>
+        <member name="T:ICCReader.MultiProcessElement">
+            <summary>
+            An element to process data
+            </summary>
+        </member>
+        <member name="P:ICCReader.MultiProcessElement.Signature">
+            <summary>
+            The signature of this element
+            </summary>
+        </member>
+        <member name="P:ICCReader.MultiProcessElement.InputChannelCount">
+            <summary>
+            Number of input channels
+            </summary>
+        </member>
+        <member name="P:ICCReader.MultiProcessElement.OutputChannelCount">
+            <summary>
+            Number of output channels
+            </summary>
+        </member>
+        <member name="T:ICCReader.MatrixProcessElement">
+            <summary>
+            A matrix element to process data
+            </summary>
+        </member>
+        <member name="P:ICCReader.MatrixProcessElement.Signature">
+            <summary>
+            The signature of this element
+            </summary>
+        </member>
+        <member name="T:ICCReader.CurveSetProcessElement">
+            <summary>
+            A set of curves to process data
+            </summary>
+        </member>
+        <member name="P:ICCReader.CurveSetProcessElement.Signature">
+            <summary>
+            The signature of this element
+            </summary>
+        </member>
+        <member name="P:ICCReader.CurveSetProcessElement.Curves">
+            <summary>
+            An array with one dimensional curves
+            </summary>
+        </member>
+        <member name="T:ICCReader.CLUTProcessElement">
+            <summary>
+            An CLUT (Color Look-Up-Table) element to process data
+            </summary>
+        </member>
+        <member name="P:ICCReader.CLUTProcessElement.Signature">
+            <summary>
+            The signature of this element
+            </summary>
+        </member>
+        <member name="T:ICCReader.bACSProcessElement">
+            <summary>
+            An empty process element for future expansion
+            </summary>
+        </member>
+        <member name="P:ICCReader.bACSProcessElement.Signature">
+            <summary>
+            The signature of this element
+            </summary>
+        </member>
+        <member name="T:ICCReader.eACSProcessElement">
+            <summary>
+            An empty process element for future expansion
+            </summary>
+        </member>
+        <member name="P:ICCReader.eACSProcessElement.Signature">
+            <summary>
+            The signature of this element
+            </summary>
+        </member>
+        <member name="T:ICCReader.TagDataEntry">
+            <summary>
+            The data of an entry
+            </summary>
+        </member>
+        <member name="T:ICCReader.chromaticityTagDataEntry">
+            <summary>
+            The chromaticity tag type provides basic chromaticity data and type of phosphors or colorants of a monitor to applications and utilities.
+            </summary>
+        </member>
+        <member name="T:ICCReader.colorantOrderTagDataEntry">
+            <summary>
+            This tag specifies the laydown order in which colorants will be printed on an n-colorant device.
+            </summary>
+        </member>
+        <member name="T:ICCReader.colorantTableTagDataEntry">
+            <summary>
+            The purpose of this tag is to identify the colorants used in the profile by a unique name and set of PCSXYZ or PCSLAB values to give the colorant an unambiguous value.
+            </summary>
+        </member>
+        <member name="T:ICCReader.curveTagDataEntry">
+            <summary>
+            The type contains a one-dimensional table of double values.
+            </summary>
+        </member>
+        <member name="T:ICCReader.dataTagDataEntry">
+            <summary>
+            The dataType is a simple data structure that contains either 7-bit ASCII or binary data, i.e. textType data or transparent bytes.
+            </summary>
+        </member>
+        <member name="T:ICCReader.dateTimeTagDataEntry">
+            <summary>
+            This type is a representation of the time and date.
+            </summary>
+        </member>
+        <member name="T:ICCReader.lut16TagDataEntry">
+            <summary>
+            This structure represents a colour transform using tables with 16-bit precision.
+            </summary>
+        </member>
+        <member name="T:ICCReader.lut8TagDataEntry">
+            <summary>
+            This structure represents a colour transform using tables with 8-bit precision.
+            </summary>
+        </member>
+        <member name="T:ICCReader.lutAToBTagDataEntry">
+            <summary>
+            This structure represents a colour transform.
+            </summary>
+        </member>
+        <member name="T:ICCReader.lutBToATagDataEntry">
+            <summary>
+            This structure represents a colour transform.
+            </summary>
+        </member>
+        <member name="T:ICCReader.measurementTagDataEntry">
+            <summary>
+            The measurementType information refers only to the internal profile data and is meant to provide profile makers an alternative to the default measurement specifications.
+            </summary>
+        </member>
+        <member name="T:ICCReader.multiLocalizedUnicodeTagDataEntry">
+            <summary>
+            This tag structure contains a set of records each referencing a multilingual string associated with a profile.
+            </summary>
+        </member>
+        <member name="T:ICCReader.multiProcessElementsTagDataEntry">
+            <summary>
+            This structure represents a colour transform, containing a sequence of processing elements.
+            </summary>
+        </member>
+        <member name="T:ICCReader.namedColor2TagDataEntry">
+            <summary>
+            The namedColor2Type is a count value and array of structures that provide colour coordinates for colour names.
+            </summary>
+        </member>
+        <member name="T:ICCReader.parametricCurveTagDataEntry">
+            <summary>
+            The parametricCurveType describes a one-dimensional curve by specifying one of a predefined set of functions using the parameters.
+            </summary>
+        </member>
+        <member name="T:ICCReader.profileSequenceDescTagDataEntry">
+            <summary>
+            This type is an array of structures, each of which contains information from the header fields and tags from the original profiles which were combined to create the final profile.
+            </summary>
+        </member>
+        <member name="T:ICCReader.profileSequenceIdentifierTagDataEntry">
+            <summary>
+            This type is an array of structures, each of which contains information for identification of a profile used in a sequence.
+            </summary>
+        </member>
+        <member name="T:ICCReader.responseCurveSet16TagDataEntry">
+            <summary>
+            The purpose of this tag type is to provide a mechanism to relate physical colorant amounts with the normalized device codes produced by lut8Type, lut16Type, lutAToBType, lutBToAType or multiProcessElementsType tags so that corrections can be made for variation in the device without having to produce a new profile.
+            </summary>
+        </member>
+        <member name="T:ICCReader.s15Fixed16ArrayTagDataEntry">
+            <summary>
+            This type represents an array of doubles (from 32bit fixed point values).
+            </summary>
+        </member>
+        <member name="T:ICCReader.signatureTagDataEntry">
+            <summary>
+            Typically this type is used for registered tags that can be displayed on many development systems as a sequence of four characters.
+            </summary>
+        </member>
+        <member name="T:ICCReader.textTagDataEntry">
+            <summary>
+            The textType is a simple text structure that contains a text string.
+            </summary>
+        </member>
+        <member name="T:ICCReader.u16Fixed16ArrayTagDataEntry">
+            <summary>
+            This type represents an array of doubles (from 32bit values).
+            </summary>
+        </member>
+        <member name="T:ICCReader.uInt16ArrayTagDataEntry">
+            <summary>
+            This type represents an array of unsigned shorts.
+            </summary>
+        </member>
+        <member name="T:ICCReader.uInt32ArrayTagDataEntry">
+            <summary>
+            This type represents an array of unsigned 32bit integers.
+            </summary>
+        </member>
+        <member name="T:ICCReader.uInt64ArrayTagDataEntry">
+            <summary>
+            This type represents an array of unsigned 64bit integers.
+            </summary>
+        </member>
+        <member name="T:ICCReader.uInt8ArrayTagDataEntry">
+            <summary>
+            This type represents an array of bytes.
+            </summary>
+        </member>
+        <member name="T:ICCReader.viewingConditionsTagDataEntry">
+            <summary>
+            This type represents a set of viewing condition parameters.
+            </summary>
+        </member>
+        <member name="T:ICCReader.XYZTagDataEntry">
+            <summary>
+            The XYZType contains an array of XYZ values.
+            </summary>
+        </member>
+        <member name="T:ICCReader.ICCTagTable">
+            <summary>
+            A table with all tags that are stored in the icc
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCTagTable.TagCount">
+            <summary>
+            Number of tags
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCTagTable.Data">
+            <summary>
+            An array storing all tags
+            </summary>
+        </member>
+        <member name="T:ICCReader.ICCProfile">
+            <summary>
+            Stores all values from an ICC profile
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCProfile.Header">
+            <summary>
+            The header of this profile
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCProfile.TagTable">
+            <summary>
+            The tag table of this profile
+            </summary>
+        </member>
+        <member name="P:ICCReader.ICCProfile.TagData">
+            <summary>
+            The tag data of this profile
+            </summary>
+        </member>
+        <member name="M:ICCReader.ICCProfile.#ctor(System.String,System.Boolean)">
+            <summary>
+            Creates a new ICC profile
+            </summary>
+            <param name="Path">The path to the ICC file</param>
+            <param name="Read">States if the profile should be read immediately or later</param>
+        </member>
+        <member name="M:ICCReader.ICCProfile.ReadAll">
+            <summary>
+            Reads all information stored in an ICC profile
+            </summary>
+        </member>
+        <member name="M:ICCReader.ICCProfile.GetFirstEntry(ICCReader.TagSignature)">
+            <summary>
+            Get the first entry with the specific signature. Returns null if none is found
+            </summary>
+            <param name="TagName">The signature of the entry</param>
+            <returns>The data of the named entry</returns>
+        </member>
+        <member name="M:ICCReader.ICCProfile.GetAllEntries(ICCReader.TagSignature)">
+            <summary>
+            Get the all entries with the specific signature
+            </summary>
+            <param name="TagName">The signature of the entry</param>
+            <returns>The array of data of the named entry</returns>
+        </member>
+        <member name="T:ICCReader.NamedColor">
+            <summary>
+            A color with a name
+            </summary>
+        </member>
+        <member name="T:ICCReader.OneDimensionalCurve">
+            <summary>
+            A one dimensional curve
+            </summary>
+        </member>
+        <member name="P:ICCReader.OneDimensionalCurve.SegmentCount">
+            <summary>
+            Number of curve segments
+            </summary>
+        </member>
+        <member name="P:ICCReader.OneDimensionalCurve.BreakPoints">
+            <summary>
+            Breakpoints separate two curve segments
+            </summary>
+        </member>
+        <member name="P:ICCReader.OneDimensionalCurve.Segments">
+            <summary>
+            An array of curve segments
+            </summary>
+        </member>
+        <member name="T:ICCReader.CurveSegment">
+            <summary>
+            A segment of a curve
+            </summary>
+        </member>
+        <member name="P:ICCReader.CurveSegment.Signature">
+            <summary>
+            The signature of this segment
+            </summary>
+        </member>
+        <member name="M:ICCReader.CurveSegment.GetValue(System.Double)">
+            <summary>
+            Interpolates a given value with the methods of this curve segment
+            </summary>
+            <param name="X">The value which will get interpolated</param>
+            <returns>The interpolated value</returns>
+        </member>
+        <member name="T:ICCReader.FormulaCurveElement">
+            <summary>
+            A formula based curve segment
+            </summary>
+        </member>
+        <member name="P:ICCReader.FormulaCurveElement.Signature">
+            <summary>
+            The signature of this segment
+            </summary>
+        </member>
+        <member name="M:ICCReader.FormulaCurveElement.GetValue(System.Double)">
+            <summary>
+            Interpolates a given value with the methods of this curve segment
+            </summary>
+            <param name="X">The value which will get interpolated</param>
+            <returns>The interpolated value</returns>
+        </member>
+        <member name="T:ICCReader.SampledCurveElement">
+            <summary>
+            A sampled curve segment
+            </summary>
+        </member>
+        <member name="P:ICCReader.SampledCurveElement.Signature">
+            <summary>
+            The signature of this segment
+            </summary>
+        </member>
+        <member name="P:ICCReader.SampledCurveElement.EntryCount">
+            <summary>
+            Number of entries
+            </summary>
+        </member>
+        <member name="P:ICCReader.SampledCurveElement.CurveEntries">
+            <summary>
+            The curve entries
+            </summary>
+        </member>
+        <member name="M:ICCReader.SampledCurveElement.GetValue(System.Double)">
+            <summary>
+            Interpolates a given value with the methods of this curve segment
+            </summary>
+            <param name="X">The value which will get interpolated</param>
+            <returns>The interpolated value</returns>
+        </member>
+    </members>
+</doc>
